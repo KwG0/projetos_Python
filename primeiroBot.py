@@ -9,7 +9,7 @@ age_difference = (age - bot_age)
 print(f"Nossa! Você é {age_difference} anos mais velho que eu :) Eu tenho {bot_age} anos!")
 color = input("Qual a sua cor favorita? ")
 bot_fav_color = "preto"
-print(f"Eu acho {color} uma cor muito bonita. Mas a minha favorita é {bot_fav_color}, embora muitos considere apenas uma ausência de cor.")
+print(f"Eu acho {color} uma cor muito bonita. Mas, a minha favorita é {bot_fav_color} embora muitos considere apenas uma ausência de cor.")
 
 # print(type()) -> tipo do parâmetro 
 # print(str()) -> número vira string
