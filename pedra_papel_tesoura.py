@@ -28,3 +28,8 @@ elif start == 1 and preparado == "não":
 # elif ...: -> elseif, porém do Python
 # and -> &&
 # or ->  ||
+# for ... in range (): -> Loop
+# while True or False: -> loop
+# continue -> pula o item
+# break = quebra loop
+# else : -> Também pode ser usado no for
