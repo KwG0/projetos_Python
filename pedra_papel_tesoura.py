@@ -3,7 +3,7 @@ import random
 
 escolhas_bot = ['pedra', 'papel', 'tesoura']
 
-start_input = input("Gostaria de jogar pedral, papel, tesoura comigo? \n Digite: \n 1 - para sim \n 0 - para não \n ")
+start_input = input("Gostaria de jogar pedra, papel, tesoura comigo? \n Digite: \n 1 - para sim \n 0 - para não \n ")
 start = int(start_input)
 
 
